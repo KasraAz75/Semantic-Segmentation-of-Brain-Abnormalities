@@ -1,1 +1,1 @@
-# Semantic-Segmentation-of-Brain-Abnormalities
+# Semantic Segmentation of Brain Abnormalities
